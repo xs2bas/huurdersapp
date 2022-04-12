@@ -1,4 +1,0 @@
-#Fri Apr 08 16:57:54 CEST 2022
-base.0=E\:\\Projecten\\Omniboxx\\flutter\\huurders-app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
